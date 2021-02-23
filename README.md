@@ -6,8 +6,10 @@ Modmail is a bot that creates a shared inbox for all moderators to use.
 
 Open [repl.it](https://repl.it/) and in the shell execute the command:
 ```
-git clone
+git clone https://github.com/SecretAyee/Modmail-Alpha
 ```
+Input your token in the specified place.
+Change the prefix if needed.
 Then register to [Uptime Robot](https://uptimerobot.com/) and create a new monitor. Select `HTTP(s)` and copy the webserver on your [repl.it](https://repl.it/) to the URL Section.
 
 ## Setup Command
